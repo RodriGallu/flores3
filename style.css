@@ -15,7 +15,7 @@
   top: 40%; /* Ajusta según necesites para centrar el texto */
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 4vmin; /* Ajustado para acomodar todo el texto */
+  font-size: 7vmin; /* Ajustado para acomodar todo el texto */
   color: #FFD700; /* Color dorado */
   font-weight: bold;
   letter-spacing: 0.2vmin; /* Espacio entre letras */
